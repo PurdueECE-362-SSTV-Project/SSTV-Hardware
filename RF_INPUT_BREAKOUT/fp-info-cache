@@ -1,4 +1,4 @@
-24326107317470313
+24327865534638084
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54568,6 +54568,13 @@ Crystal
 Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm
 http://www.txccrystal.com/images/pdf/ax-automotive.pdf
 SMD SMT crystal
+0
+2
+2
+Crystal
+Micro Crystal CM7VT1A-0.3-32.768kHz-12.5pF-20PPM-TA-QC
+CM7V-T1A
+Crystal or Oscillator
 0
 2
 2
