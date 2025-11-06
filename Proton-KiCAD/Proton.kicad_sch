@@ -5590,6 +5590,12 @@
 		(uuid "c896179b-ee43-4e01-9866-cdf745108d2a")
 	)
 	(junction
+		(at 93.98 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ce248971-b21d-48a2-ab6d-878434c0a0c1")
+	)
+	(junction
 		(at 49.53 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5663,7 +5669,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 33.02) (xy 93.98 34.29)
+			(xy 93.98 29.21) (xy 93.98 30.48)
 		)
 		(stroke
 			(width 0)
@@ -5923,7 +5929,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 232.41) (xy 247.65 232.41)
+			(xy 232.41 232.41) (xy 254 232.41)
 		)
 		(stroke
 			(width 0)
@@ -6023,7 +6029,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 212.09) (xy 247.65 212.09)
+			(xy 232.41 212.09) (xy 254 212.09)
 		)
 		(stroke
 			(width 0)
@@ -6053,7 +6059,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 199.39) (xy 247.65 199.39)
+			(xy 232.41 199.39) (xy 254 199.39)
 		)
 		(stroke
 			(width 0)
@@ -6070,6 +6076,16 @@
 			(type default)
 		)
 		(uuid "2d747e75-340e-4e18-b7d2-b5fc47acca1d")
+	)
+	(wire
+		(pts
+			(xy 93.98 30.48) (xy 96.52 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2daa6aa8-d928-46c4-9207-c818fa78e626")
 	)
 	(wire
 		(pts
@@ -6183,7 +6199,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 173.99) (xy 247.65 173.99)
+			(xy 232.41 173.99) (xy 254 173.99)
 		)
 		(stroke
 			(width 0)
@@ -6293,7 +6309,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 194.31) (xy 247.65 194.31)
+			(xy 232.41 194.31) (xy 254 194.31)
 		)
 		(stroke
 			(width 0)
@@ -6353,7 +6369,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 171.45) (xy 247.65 171.45)
+			(xy 232.41 171.45) (xy 254 171.45)
 		)
 		(stroke
 			(width 0)
@@ -6403,7 +6419,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 196.85) (xy 247.65 196.85)
+			(xy 232.41 196.85) (xy 254 196.85)
 		)
 		(stroke
 			(width 0)
@@ -6543,7 +6559,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 207.01) (xy 247.65 207.01)
+			(xy 232.41 207.01) (xy 254 207.01)
 		)
 		(stroke
 			(width 0)
@@ -6573,7 +6589,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 168.91) (xy 247.65 168.91)
+			(xy 232.41 168.91) (xy 254 168.91)
 		)
 		(stroke
 			(width 0)
@@ -6623,7 +6639,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 217.17) (xy 251.46 217.17)
+			(xy 232.41 217.17) (xy 254 217.17)
 		)
 		(stroke
 			(width 0)
@@ -6653,7 +6669,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 229.87) (xy 252.73 229.87)
+			(xy 232.41 229.87) (xy 254 229.87)
 		)
 		(stroke
 			(width 0)
@@ -6700,6 +6716,16 @@
 			(type default)
 		)
 		(uuid "6a6a7afb-e5de-41c6-afa9-e1fcc7d05e82")
+	)
+	(wire
+		(pts
+			(xy 93.98 30.48) (xy 93.98 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f848c3b-8f5d-4c0b-908f-c98c2a79c576")
 	)
 	(wire
 		(pts
@@ -6893,7 +6919,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 166.37) (xy 247.65 166.37)
+			(xy 232.41 166.37) (xy 254 166.37)
 		)
 		(stroke
 			(width 0)
@@ -7313,7 +7339,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 176.53) (xy 247.65 176.53)
+			(xy 232.41 176.53) (xy 254 176.53)
 		)
 		(stroke
 			(width 0)
@@ -7593,7 +7619,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 209.55) (xy 247.65 209.55)
+			(xy 232.41 209.55) (xy 254 209.55)
 		)
 		(stroke
 			(width 0)
@@ -7723,7 +7749,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 219.71) (xy 251.46 219.71)
+			(xy 232.41 219.71) (xy 254 219.71)
 		)
 		(stroke
 			(width 0)
@@ -7783,7 +7809,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 201.93) (xy 247.65 201.93)
+			(xy 232.41 201.93) (xy 254 201.93)
 		)
 		(stroke
 			(width 0)
@@ -9133,6 +9159,50 @@
 			)
 		)
 	)
+	(global_label "+5V"
+		(shape input)
+		(at 96.52 30.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "068f3a38-d1b2-44c1-9160-62f1a1ab2ab4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.7215 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "OLED_SPI1_SCLK"
+		(shape input)
+		(at 254 201.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0abfc550-a6f3-4d14-b81b-5d8cf305b0f8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 272.1152 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "KEYPAD_GPIO7"
 		(shape input)
 		(at 254 143.51 0)
@@ -9155,6 +9225,28 @@
 			)
 		)
 	)
+	(global_label "OLED_SPI1_RX"
+		(shape input)
+		(at 254 196.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "114f94c7-1978-4b66-aa7b-523090b55bc1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 269.8171 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "UART_RX"
 		(shape input)
 		(at 254 125.73 0)
@@ -9168,6 +9260,50 @@
 		(uuid "195f696f-d51a-4010-a747-5ef4bc79cfd5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 264.4348 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "OLED_SPI0_SCLK"
+		(shape input)
+		(at 254 171.45 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2bcb9c4b-2882-4837-af80-26073d84c964")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 272.1152 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "OLED_SPI0_~{RST}"
+		(shape input)
+		(at 254 166.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3807a046-f151-4ccd-90db-95fa459c8cbf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 270.7847 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9201,7 +9337,7 @@
 	)
 	(global_label "RF_~{RST}"
 		(shape input)
-		(at 252.73 229.87 0)
+		(at 254 229.87 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9211,7 +9347,7 @@
 		)
 		(uuid "3fac1551-6ed7-4866-ba55-3088ed038cc1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 261.8343 229.87 0)
+			(at 263.1043 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9243,6 +9379,50 @@
 			)
 		)
 	)
+	(global_label "OLED_DC"
+		(shape input)
+		(at 254 176.53 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4e90f935-7ec3-475e-9554-86e071eea72f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 264.6162 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROT_CLK"
+		(shape input)
+		(at 254 212.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4ec2dc5e-39bd-4eee-bb0e-070c89e68b5a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 264.4348 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "KEYPAD_GPIO3"
 		(shape input)
 		(at 254 133.35 0)
@@ -9256,6 +9436,28 @@
 		(uuid "51d3cd99-d4ad-48a1-9a88-bb1dd6e20f8f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 270.1196 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "OLED_SPI0_CS"
+		(shape input)
+		(at 254 168.91 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "52eaf24b-824b-4eec-b83a-81252b732518")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 269.8171 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9289,7 +9491,7 @@
 	)
 	(global_label "RF_SCLK"
 		(shape input)
-		(at 251.46 219.71 0)
+		(at 254 219.71 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9299,7 +9501,7 @@
 		)
 		(uuid "5b1e21d0-ed33-45b4-81af-edba97752ac5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 261.8948 219.71 0)
+			(at 264.4348 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9311,7 +9513,7 @@
 	)
 	(global_label "RF_SDIO"
 		(shape input)
-		(at 251.46 217.17 0)
+		(at 254 217.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9321,7 +9523,7 @@
 		)
 		(uuid "5c95b3f3-9376-461e-b088-b996c375c9cf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 261.532 217.17 0)
+			(at 264.072 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9441,6 +9643,28 @@
 			)
 		)
 	)
+	(global_label "OLED_SPI1_TX"
+		(shape input)
+		(at 254 194.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a2fb05bb-224b-4616-92cc-1087c12da17e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 269.5147 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "KEYPAD_GPIO9"
 		(shape input)
 		(at 254 148.59 0)
@@ -9498,6 +9722,116 @@
 		(uuid "babc2b5a-a9d8-4de5-9949-f564a2503c19")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 375.7715 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "OLED_SPI1_CS"
+		(shape input)
+		(at 254 199.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c94352b6-99a9-47b4-b1a0-bbb23b7efddb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 269.8171 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RF_AUDIO"
+		(shape input)
+		(at 254 232.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ce5ffa97-841b-4e22-8237-a64dc7e1a002")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 265.2816 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROT_SW"
+		(shape input)
+		(at 254 209.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e14e0319-10c9-4c3e-bc61-a1544afcafb2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 263.5276 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "OLED_SPI0_TX"
+		(shape input)
+		(at 254 173.99 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ee8a0746-0046-416b-b2e3-7191b01f448f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 269.5147 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROT_DT"
+		(shape input)
+		(at 254 207.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f7b5194f-9440-46e0-89a7-df3f6498475b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 263.1043 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9654,7 +9988,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ed9b1cb")
-		(property "Reference" "#PWR0121"
+		(property "Reference" "#PWR02"
 			(at 29.21 269.24 0)
 			(effects
 				(font
@@ -9704,7 +10038,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0121")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -9735,7 +10069,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
 			(at 60.96 204.47 0)
 			(effects
 				(font
@@ -9804,7 +10138,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eda6c1c")
-		(property "Reference" "#PWR0122"
+		(property "Reference" "#PWR05"
 			(at 60.96 184.15 0)
 			(effects
 				(font
@@ -9854,7 +10188,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0122")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -9869,7 +10203,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eda75f4")
-		(property "Reference" "#PWR0123"
+		(property "Reference" "#PWR06"
 			(at 60.96 222.25 0)
 			(effects
 				(font
@@ -9919,7 +10253,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0123")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -10003,7 +10337,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005edb5c1d")
-		(property "Reference" "#PWR0124"
+		(property "Reference" "#PWR07"
 			(at 67.31 198.12 0)
 			(effects
 				(font
@@ -10053,7 +10387,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0124")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -10068,7 +10402,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005edc82df")
-		(property "Reference" "#PWR0105"
+		(property "Reference" "#PWR031"
 			(at 195.58 264.16 0)
 			(effects
 				(font
@@ -10118,7 +10452,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0105")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -10267,7 +10601,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eed9ba4")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR032"
 			(at 217.17 77.47 0)
 			(effects
 				(font
@@ -10317,7 +10651,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0102")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -10888,7 +11222,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f1af967")
-		(property "Reference" "#PWR0104"
+		(property "Reference" "#PWR029"
 			(at 194.31 77.47 0)
 			(effects
 				(font
@@ -10938,7 +11272,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0104")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -11022,7 +11356,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f1af973")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR030"
 			(at 194.31 91.44 0)
 			(effects
 				(font
@@ -11072,7 +11406,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0103")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -11226,7 +11560,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0be84dc5-b79e-4812-97b3-c3ff058c07cf")
-		(property "Reference" "#PWR0113"
+		(property "Reference" "#PWR011"
 			(at 73.66 36.83 0)
 			(effects
 				(font
@@ -11276,7 +11610,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0113")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -11291,7 +11625,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0decaec1-1103-422d-8792-5e5283f35bd4")
-		(property "Reference" "#PWR0129"
+		(property "Reference" "#PWR019"
 			(at 127 158.115 0)
 			(effects
 				(font
@@ -11341,7 +11675,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0129")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -11425,7 +11759,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "189f84cb-da82-4bae-8ee7-b6041d5e570f")
-		(property "Reference" "U9"
+		(property "Reference" "U2"
 			(at 76.2 59.69 0)
 			(effects
 				(font
@@ -11494,7 +11828,7 @@
 		(instances
 			(project ""
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "U9")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -11645,7 +11979,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "237e9ab4-467a-4b3d-932e-f0895778e090")
-		(property "Reference" "#PWR0111"
+		(property "Reference" "#PWR017"
 			(at 115.57 53.34 0)
 			(effects
 				(font
@@ -11695,7 +12029,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0111")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -11849,7 +12183,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2602674e-488c-49d6-95c1-e667613755c2")
-		(property "Reference" "#PWR5"
+		(property "Reference" "#PWR09"
 			(at 72.39 66.04 0)
 			(effects
 				(font
@@ -11899,7 +12233,7 @@
 		(instances
 			(project "Proton"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR5")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -11914,7 +12248,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "28538623-c337-443c-8595-2034206c9cf8")
-		(property "Reference" "#PWR0127"
+		(property "Reference" "#PWR018"
 			(at 116.84 119.38 0)
 			(effects
 				(font
@@ -11964,7 +12298,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0127")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -11979,7 +12313,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2bac060d-f0a7-4c16-a010-a970d4cea88b")
-		(property "Reference" "#PWR0115"
+		(property "Reference" "#PWR027"
 			(at 165.1 50.8 0)
 			(effects
 				(font
@@ -12029,7 +12363,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0115")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -12112,7 +12446,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "348691a1-5df6-415b-9ef3-b4ff4946476c")
-		(property "Reference" "#PWR0120"
+		(property "Reference" "#PWR03"
 			(at 44.45 261.62 0)
 			(effects
 				(font
@@ -12162,7 +12496,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0120")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -12177,7 +12511,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3d9373e2-19bd-4b25-90ec-96b5cf3a90f3")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR010"
 			(at 72.39 81.28 0)
 			(effects
 				(font
@@ -12227,7 +12561,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR03")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -12243,7 +12577,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41d4e8fb-6340-476e-8b5d-31255e9a3176")
-		(property "Reference" "R6"
+		(property "Reference" "R7"
 			(at 152.4 31.7499 0)
 			(effects
 				(font
@@ -12297,7 +12631,7 @@
 		(instances
 			(project ""
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "R6")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -12452,7 +12786,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "59b2e36a-2d44-46bd-9766-eb99e2b3298c")
-		(property "Reference" "#PWR0126"
+		(property "Reference" "#PWR022"
 			(at 140.97 93.98 0)
 			(effects
 				(font
@@ -12502,7 +12836,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0126")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -12655,7 +12989,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "79390a1d-02cb-427f-9e80-d9d5eaf8ada7")
-		(property "Reference" "#PWR0112"
+		(property "Reference" "#PWR013"
 			(at 97.79 50.8 0)
 			(effects
 				(font
@@ -12705,7 +13039,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0112")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -12721,7 +13055,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7ae3837d-a2a5-42d5-abc4-4d25b391c9b6")
-		(property "Reference" "#PWR0128"
+		(property "Reference" "#PWR015"
 			(at 105.41 138.43 0)
 			(effects
 				(font
@@ -12771,7 +13105,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0128")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -12855,7 +13189,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "81701cb7-44d0-445b-99a5-4b9d9128e7b3")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR028"
 			(at 172.72 77.47 0)
 			(effects
 				(font
@@ -12905,7 +13239,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0101")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -12939,7 +13273,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RP2350_80QFN_minimal:C_0402_1005Metric_small_pads"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 117.8052 125.73 0)
 			(effects
 				(font
@@ -12990,7 +13324,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "87e850c7-4b8b-416b-a59e-9df2e0b5edbc")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 115.57 28.1432 0)
 			(effects
 				(font
@@ -13045,7 +13379,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "U2")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -13060,7 +13394,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8ac06689-b8c0-4b2c-8b63-36a48edb5939")
-		(property "Reference" "#PWR0117"
+		(property "Reference" "#PWR020"
 			(at 133.35 36.83 0)
 			(effects
 				(font
@@ -13110,7 +13444,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0117")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -13232,7 +13566,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8e511729-268d-4e65-8fb0-774735b85775")
-		(property "Reference" "#PWR0106"
+		(property "Reference" "#PWR08"
 			(at 69.85 50.8 0)
 			(effects
 				(font
@@ -13282,7 +13616,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0106")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -13297,7 +13631,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "919c1793-0fcf-4575-8c6c-eda756a79fa2")
-		(property "Reference" "R7"
+		(property "Reference" "R6"
 			(at 143.51 131.9022 90)
 			(effects
 				(font
@@ -13349,7 +13683,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "R7")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -13503,7 +13837,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a22ae129-1a4f-411f-8618-76015fae4515")
-		(property "Reference" "#PWR0118"
+		(property "Reference" "#PWR024"
 			(at 149.86 50.8 0)
 			(effects
 				(font
@@ -13553,7 +13887,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0118")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -13638,7 +13972,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a61b01e7-c47c-42a0-8da5-0934a2e70cb0")
-		(property "Reference" "J6"
+		(property "Reference" "J2"
 			(at 361.95 223.52 0)
 			(effects
 				(font
@@ -13704,7 +14038,7 @@
 		(instances
 			(project ""
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "J6")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -13857,7 +14191,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b72c31c3-746b-49d2-bbdd-45798e747961")
-		(property "Reference" "#PWR0114"
+		(property "Reference" "#PWR026"
 			(at 165.1 27.94 0)
 			(effects
 				(font
@@ -13907,7 +14241,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0114")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -13922,7 +14256,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b92b110b-eea8-4819-b94c-460d2cd4e364")
-		(property "Reference" "#PWR0107"
+		(property "Reference" "#PWR01"
 			(at 26.67 82.55 0)
 			(effects
 				(font
@@ -13972,7 +14306,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0107")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -14058,7 +14392,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c7fb2975-ddad-4934-98e4-654ec059c3d7")
-		(property "Reference" "U3"
+		(property "Reference" "U4"
 			(at 197.7741 255.27 0)
 			(effects
 				(font
@@ -14076,7 +14410,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RP2350_80QFN_minimal:RP2350-QFN-80-1EP_10x10_P0.4mm_EP3.4x3.4mm_ThermalVias"
+		(property "Footprint" "Package_DFN_QFN:QFN-80-1EP_10x10mm_P0.4mm_EP3.4x3.4mm_ThermalVias"
 			(at 176.53 158.75 0)
 			(effects
 				(font
@@ -14349,7 +14683,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "U3")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -14383,7 +14717,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RP2350_80QFN_minimal:C_0402_1005Metric_small_pads"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 106.3752 125.73 0)
 			(effects
 				(font
@@ -14435,7 +14769,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d0516a11-f468-4102-8541-961bef0ebd4e")
-		(property "Reference" "#PWR0138"
+		(property "Reference" "#PWR033"
 			(at 312.42 95.25 0)
 			(effects
 				(font
@@ -14485,7 +14819,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0138")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -14502,7 +14836,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d97ffbb2-0226-4920-b5c8-5092de26d047")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR034"
 			(at 355.6 246.38 0)
 			(effects
 				(font
@@ -14552,7 +14886,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR06")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -14567,7 +14901,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dc9ecc86-ce71-4913-a3db-d8bc97f691bf")
-		(property "Reference" "#PWR0108"
+		(property "Reference" "#PWR014"
 			(at 105.41 105.41 0)
 			(effects
 				(font
@@ -14617,7 +14951,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0108")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -14632,7 +14966,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e921aedf-6ae2-47d9-aaa3-8f0155ec45a5")
-		(property "Reference" "#PWR0110"
+		(property "Reference" "#PWR021"
 			(at 133.35 50.8 0)
 			(effects
 				(font
@@ -14682,7 +15016,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0110")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -14697,7 +15031,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ea0745aa-18cf-42ae-a5f3-747623813a85")
-		(property "Reference" "#PWR0125"
+		(property "Reference" "#PWR025"
 			(at 151.13 120.65 0)
 			(effects
 				(font
@@ -14747,7 +15081,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0125")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -14762,7 +15096,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f18bcc91-4d39-4bbf-8b51-fb3765d85160")
-		(property "Reference" "#PWR0116"
+		(property "Reference" "#PWR023"
 			(at 149.86 27.94 0)
 			(effects
 				(font
@@ -14812,7 +15146,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0116")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -14827,7 +15161,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f20187ba-bb64-46c4-87d8-045556e9b148")
-		(property "Reference" "#PWR0130"
+		(property "Reference" "#PWR016"
 			(at 111.76 189.23 0)
 			(effects
 				(font
@@ -14877,7 +15211,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0130")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -14955,15 +15289,15 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 93.98 33.02 0)
+		(at 93.98 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "f7534713-e0f5-444a-b052-e928104f1186")
-		(property "Reference" "#PWR0109"
-			(at 93.98 36.83 0)
+		(property "Reference" "#PWR012"
+			(at 93.98 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14972,7 +15306,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 94.361 28.6258 0)
+			(at 94.361 24.8158 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14980,7 +15314,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 93.98 33.02 0)
+			(at 93.98 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14989,7 +15323,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 33.02 0)
+			(at 93.98 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14998,7 +15332,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 93.98 33.02 0)
+			(at 93.98 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15012,7 +15346,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0109")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -15027,7 +15361,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fc436037-d906-40fc-9bc2-8fb4a180e6ff")
-		(property "Reference" "#PWR0119"
+		(property "Reference" "#PWR04"
 			(at 57.15 261.62 0)
 			(effects
 				(font
@@ -15077,7 +15411,7 @@
 		(instances
 			(project "RP2350_80QFN_minimal"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR0119")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
