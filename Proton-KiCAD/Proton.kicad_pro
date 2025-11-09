@@ -202,8 +202,8 @@
         0.2032,
         0.254,
         0.508,
-        1.016,
-        1.27
+        0.762,
+        1.016
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -639,7 +639,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "",
+    "bom_export_filename": "output_files/Proton.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
