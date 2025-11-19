@@ -8136,7 +8136,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 146.05 100.33 0)
+		(at 146.05 100.33 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8150,7 +8150,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "9k"
@@ -8159,11 +8159,11 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 144.272 100.33 90)
+			(at 147.828 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
