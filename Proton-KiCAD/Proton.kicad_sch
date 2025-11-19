@@ -7450,7 +7450,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 234.95) (xy 247.65 234.95)
+			(xy 232.41 234.95) (xy 254 234.95)
 		)
 		(stroke
 			(width 0)
@@ -10091,6 +10091,28 @@
 		(uuid "e14e0319-10c9-4c3e-bc61-a1544afcafb2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 263.5276 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RF_AUDIO_2"
+		(shape input)
+		(at 254 234.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e7e9ace6-70c0-495d-8dc5-0fbfb5892fa3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 267.4587 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16380,7 +16402,49 @@
 		)
 	)
 	(sheet
-		(at 347.98 144.78)
+		(at 360.68 166.37)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "36492bba-5fcc-41b2-9f43-c18e8387135e")
+		(property "Sheetname" "Audio Section"
+			(at 360.68 165.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Proton_Audio.kicad_sch"
+			(at 360.68 188.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Proton"
+				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 346.71 123.19)
 		(size 25.4 19.05)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16396,7 +16460,7 @@
 		)
 		(uuid "3db78fe4-c59d-4a4b-9da7-f2255d3b38e0")
 		(property "Sheetname" "SSTV PERIPHERALS"
-			(at 347.98 144.0684 0)
+			(at 346.71 122.4784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16405,7 +16469,7 @@
 			)
 		)
 		(property "Sheetfile" "untitled.kicad_sch"
-			(at 347.98 164.4146 0)
+			(at 346.71 142.8246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
