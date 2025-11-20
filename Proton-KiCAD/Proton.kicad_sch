@@ -8660,7 +8660,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 161.29) (xy 247.65 161.29)
+			(xy 232.41 161.29) (xy 254 161.29)
 		)
 		(stroke
 			(width 0)
@@ -9783,6 +9783,28 @@
 		(uuid "5c95b3f3-9376-461e-b088-b996c375c9cf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 264.072 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FRONT_BUTTON_3"
+		(shape input)
+		(at 254 161.29 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "648eaa70-f96a-431e-b1e4-9b5cfa6f01b6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 272.6596 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14772,7 +14794,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x03_Pin"
+		(property "Value" "DEBUG"
 			(at 351.155 227.33 0)
 			(effects
 				(font
